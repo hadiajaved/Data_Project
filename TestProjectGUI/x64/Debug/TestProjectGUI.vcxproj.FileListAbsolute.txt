@@ -1,0 +1,15 @@
+C:\Users\NoLyfer\source\repos\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.AssemblyReference.cache
+C:\Users\NoLyfer\source\repos\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.MyForm.resources
+C:\Users\NoLyfer\source\repos\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.GenerateResource.cache
+D:\New folder\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.AssemblyReference.cache
+D:\New folder\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.SuggestedBindingRedirects.cache
+D:\New folder\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.MyForm.resources
+D:\New folder\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.GenerateResource.cache
+E:\Daniyal Shafiq\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.AssemblyReference.cache
+E:\Daniyal Shafiq\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.SuggestedBindingRedirects.cache
+E:\Daniyal Shafiq\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.MyForm.resources
+E:\Daniyal Shafiq\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\h\Data\TestProjectGUI\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\h\Data\TestProjectGUI\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\h\Data\TestProjectGUI\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.MyForm.resources
+C:\Users\User\Desktop\h\Data\TestProjectGUI\TestProjectGUI\TestProjectGUI\x64\Debug\TestProjectGUI.vcxproj.GenerateResource.cache
