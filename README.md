@@ -2,6 +2,11 @@
 <a name="readme-top"></a>
 ## Github Clone Github++
 
+<p GitHub is a cloud-based hosting service built around the Git version control system. It offers a suite of collaborative features that make it a powerful platform for developers. These features include:
+
+Code Review: Tools that enable thorough examination of code changes, encouraging improved code quality and knowledge sharing within teams.
+Issue Tracking: A system for reporting bugs, proposing enhancements, and managing project tasks.
+Project Management: Features like wikis and kanban boards to organize and track development progress. </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
